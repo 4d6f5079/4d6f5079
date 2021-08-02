@@ -2,8 +2,9 @@
 - 👀 I’m interested in programming things
 - 👨‍💻 I have experience in the following programming languages: Python, Java and Javascript.
 - 🌱 I’m currently learning C and C++
+- 📫 How to reach me: via Github.
+- 
 <!--- - 💞️ I’m looking to collaborate on any projects that I find interesting --->
-- 📫 How to reach me: you can't
 
 <!---
 4d6f5079/4d6f5079 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
