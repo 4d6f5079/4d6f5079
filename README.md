@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @4d6f5079
 - 👀 I’m interested in programming things
+- 👨‍💻 I have experience in the following programming languages: Python, Java and Javascript.
 - 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on any projects that I find interesting
+<!--- - 💞️ I’m looking to collaborate on any projects that I find interesting --->
 - 📫 How to reach me: you can't
 
 <!---
