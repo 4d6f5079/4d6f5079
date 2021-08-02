@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4d6f5079
 - 👀 I’m interested in programming things
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on any projects that I find interesting
 - 📫 How to reach me: you can't
 
